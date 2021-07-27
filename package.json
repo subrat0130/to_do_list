@@ -1,21 +1,13 @@
 {
-  "name": "bettertodolist",
+  "name": "To_Do_List",
   "version": "1.0.0",
-  "description": "## Personal Notes Project Start: 9/10/2020",
+  "description": "A to do list app with authentication using firebase",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheMDDropout/betterToDoList.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TheMDDropout/betterToDoList/issues"
-  },
-  "homepage": "https://github.com/TheMDDropout/betterToDoList#readme",
   "devDependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
