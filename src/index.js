@@ -97,7 +97,7 @@ let signInProcess = () => {
 
   
   var actionCodeSettings = {
-    url: 'https://themddropout.github.io/betterToDoList/',
+    url: 'https://subrat0130.github.io/to_do_list/dist/',
     handleCodeInApp: true
   };
   
