@@ -60,8 +60,8 @@ let signInProcess = () => {
 
   let demoButton = signup.signInWithDemoButton;
   demoButton.onclick = () => {
-    let email = "demo@gmail.com"
-    let password = "demodemo123"
+    let email = "demo@test.com"
+    let password = "passmein"
     firebase.auth().signInWithEmailAndPassword(email, password)
   }
 
